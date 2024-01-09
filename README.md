@@ -38,4 +38,28 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 
 
+
+## Como feito ##
+
+ crie as funções  de cadastrar , remover e listar veículo. Usando lista com metodo  list.add(), para adicionar veículo; metodo list.remove() para remover o veículo e usei o foreach para listar os veículos.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # sistema-de-estacionamento-em-c-
